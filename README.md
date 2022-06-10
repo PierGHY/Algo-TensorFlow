@@ -1,11 +1,11 @@
 #### 1. Model 
-![model](Model.png)
+![model](result/Model.png)
 #### 2. Training with Training loss 
-![Training](training.png)
+![Training](result/training.png)
 #### 3. Test Accuracy
-![Test_acc](test.png)
+![Test_acc](result/test.png)
 #### 4. Images and corresponding probability that predicted Right 
-![right](image.png)
+![right](result/image.png)
 #### 5. Images and corresponding probability that predicted Wrong
-![wrong](error.png)
+![wrong](result/error.png)
 
