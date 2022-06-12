@@ -9,6 +9,8 @@
 #### 5. Images and corresponding probability that predicted Wrong
 ![wrong](result/error1.png)
 
+#### --------------------------------------------------- ####
+
 #### 1. MODEL 2 : 5 Layers with 2 Convolution layer 
 ![model](result/model2.png)
 #### 2. Training with Training loss 
@@ -19,6 +21,8 @@
 ![right](result/image2.png)
 #### 5. Images and corresponding probability that predicted Wrong
 ![wrong](result/error2.png)
+
+#### --------------------------------------------------- ####
 
 #### 1. MODEL 3 : 7 Layers with 4 Convolution layer 
 ![model](result/Model.png)
